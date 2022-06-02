@@ -3,4 +3,4 @@ I am a Junior at the University of Colorado Boulder majoring in computer science
 Big NBA fan
 I like to play basketball, tennis, and the piano
 Looking into careers in software dev and data science
-Checkout my online portfolio: https://vigneshchandrasekhar.herokuapp.com/
+Checkout my online portfolio: https://vigneshchandrasekhar.com/
